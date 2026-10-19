@@ -1,0 +1,9 @@
+python-telegram-bot
+requests
+flask
+pymongo
+pyrogram
+tgcrypto
+pillow
+aiohttp
+qrcode
