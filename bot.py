@@ -123,7 +123,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         [
             InlineKeyboardButton(
                 "📖 How To Buy",
-                url="https://t.me/Keralaslatestbot?start=Z2V0Oi0xMDAzMzgxNTg5NzE0OjMzMg",
+                url="https://t.me/TeamKeralasV2Bot?start=Z2V0Oi0xMDAzOTE2MzgxMTAzOjEwNA",
             )
         ],
         [
